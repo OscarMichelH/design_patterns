@@ -1,3 +1,6 @@
+# Cloud Behavior to Test:
+[I'm an inline-style link with title](https://repl.it/@OscarMichel1/DesignPatternProblems "Link to Test")
+
 ## Abstract Factory and Factory Method Pattern - PizzaStore
 ![alt text](https://github.com/OscarMichelH/design_patterns/blob/master/PizzaStore.png)
 
